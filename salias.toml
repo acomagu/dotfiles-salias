@@ -1,0 +1,3 @@
+[git]
+show = "show -w"
+diff = "diff -w"
