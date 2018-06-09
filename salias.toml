@@ -1,3 +1,7 @@
 [git]
 show = "show -w"
 diff = "diff -w"
+
+[go]
+get = "get -v"
+test = "test -v"
